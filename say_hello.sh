@@ -1,1 +1,1 @@
-echo "Hello world from githug"
+echo "Hello Jenkins from github"
